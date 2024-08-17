@@ -2,7 +2,7 @@
 
 ### Technical Skills
 * Programming Languages: R, Python
-* Data Manipulation & Analysis
+* Data Manipulation & Analysis:
   * R: tidyverse
   * Python: Pandas, NumPy, SciPy
 * Data Visualization:
