@@ -22,7 +22,7 @@
   * Python: Statsmodels
 * Web APIs: Integrating and utilization of web APIs for data retrieval and interaction
 
-* Web Development & Reporting:
+* Reporting:
   * RMarkdown
   * Jupyter Notebooks
 
