@@ -21,6 +21,7 @@
   * R: survival
   * Python: Statsmodels
 * Web APIs: Integrating and utilization of web APIs for data retrieval and interaction
+
 * Web Development & Reporting:
   * Tools: RMarkdown
   * Interactive Notebooks: Jupyter Notebooks
