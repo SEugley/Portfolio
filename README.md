@@ -1,5 +1,6 @@
 # Data Scientist
 
+
 ### 🛠️ Technical Skills
 * Programming Languages: R, Python
 * Data Visualization:
@@ -14,9 +15,11 @@
     * Model training, tuning, evaluation, and hyperparameter optimization
 * Web APIs: Integrating and utilization of web APIs for data retrieval and interaction
 
+
 ### Education
 * M.S., Data Science | Merrimack College (August 2024)
 * B.S., Human Biology | University of Southern Maine (December 2019)
+
 
 ### Projects
 HRRP
