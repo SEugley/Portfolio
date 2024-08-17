@@ -21,7 +21,6 @@
   * R: survival
   * Python: Statsmodels
 * Web APIs: Integrating and utilization of web APIs for data retrieval and interaction
-
 * Reporting:
   * RMarkdown
   * Jupyter Notebooks
@@ -30,8 +29,6 @@
 * M.S., Data Science | Merrimack College (August 2024)
 * B.S., Human Biology | University of Southern Maine (December 2019)
 
-
 ### Projects
-
 
 ### What am I Currently Working on?
