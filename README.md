@@ -24,4 +24,4 @@
 ### Projects
 
 
-### What am I working on Currently?
+### What am I Currently Working on?
