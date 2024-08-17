@@ -1,4 +1,4 @@
-# Data Scientist M.S.
+# Data Scientist, M.S.
 
 
 ### Technical Skills
