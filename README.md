@@ -1,7 +1,7 @@
 # Data Scientist M.S.
 
 
-### 🛠️ Technical Skills
+### Technical Skills
 * Programming Languages: R, Python
 * Data Visualization:
   * Tools: Tableau, Shiny
