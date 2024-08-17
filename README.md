@@ -1,8 +1,8 @@
 # Data Scientist
 
 ### Education
-M.S., Data Science | Merrimack College (August 2024)
-B.S., Human Biology | University of Southern Maine (December 2019)
+* M.S., Data Science | Merrimack College (August 2024)
+* B.S., Human Biology | University of Southern Maine (December 2019)
 
 ### 🛠️ Technical Skills
 * Programming Languages: R, Python
