@@ -32,7 +32,7 @@
 ### Projects
 
 #### Customer De-Identification
-In this Customer De-identification project, the risks of identifying customers in a telecom customer survey dataset was evaluated and then mitigated. Four different scenarios of re-identification are presented: Intentional attack, unintentional recognition, data breaches, and public data disclosure. To assess the risk of client identification, the project used established statistical methodologies and probabilistic algorithms. Creating equivalence classes with similar values for quasi-identifiers (e.g., age, gender, monthly credit card usage, household income), was a crucial component in protecting customer identity. Efforts were made to ensure that each class was big enough to lower the possibility of singling out any specific individual. Utilizing data quality controls, masking sensitive variables, and grouping data into ranges, the project was able to successfully reduce the re-identification risk while also maintaining the utility of the dataset. 
+A comprehensive risk assessment of a telecom customer survey dataset to evaluate the potential for customer re-identification was performed. Statistical methods and probabilistic algorithms were applied across four scenarios: intentional attack, unintentional recognition, data breaches, and public disclosure. Equivalence classes for quasi-identifiers, ensuring adequate group sizes to reduce re-identification risks, were established. Data quality controls, variable masking, and data grouping strategies were implemented to successfully mitigate risks while preserving the dataset’s utility. 
 #### [Data De-identification Project Repository](https://github.com/SEugley/Data_De-identification)
 
 
