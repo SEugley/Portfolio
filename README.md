@@ -37,7 +37,6 @@ A comprehensive risk assessment of a telecom customer survey dataset to evaluate
 
 #### Predictive Modeling for Stroke Risk and Life Expectancy
 This project leverages statistical and machine learning techniques to analyze healthcare data, specifically targeting stroke risk prediction and life expectancy estimation. By employing a range of predictive models, including regression techniques, decision trees, and ensemble methods, the analysis compares their effectiveness. This analysis also identifies key health predictors as they pertain to life expectancy and stroke risk.
-#### [Stroke and Life Expectancy Repository](https://github.com/SEugley/Machine_Learning/Stroke_and_Life_Expectancy/).
-
+#### [Stroke Risk and Life Expectancy Repository](https://github.com/SEugley/Machine_Learning/tree/main/Stroke_and_Life_Expectancy)
 
 ### What am I Currently Working on?
