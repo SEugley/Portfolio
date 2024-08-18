@@ -35,5 +35,7 @@
 A comprehensive risk assessment of a telecom customer survey dataset to evaluate the potential for customer re-identification was performed. Statistical methods and probabilistic algorithms were applied across four scenarios: intentional attack, unintentional recognition, data breaches, and public disclosure. Equivalence classes for quasi-identifiers, ensuring adequate group sizes to reduce re-identification risks, were established. Data quality controls, variable masking, and data grouping strategies were implemented to successfully mitigate risks while preserving the dataset’s utility. 
 #### [Data De-identification Repository](https://github.com/SEugley/Data_De-identification)
 
+#### Predictive Modeling for Stroke Risk and Life Expectancy
+This project leverages statistical and machine learning techniques to analyze healthcare data, specifically targeting stroke risk prediction and life expectancy estimation. By employing a range of predictive models, including regression techniques, decision trees, and ensemble methods, the analysis compares their effectiveness. The Random Forest models outperformed others, achieving a 98.9% accuracy in stroke risk prediction and the lowest mean squared error in life expectancy estimation. This analysis also identifies key health predictors as they pertain to life expectancy and stroke risk.
 
 ### What am I Currently Working on?
