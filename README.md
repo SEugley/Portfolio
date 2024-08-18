@@ -39,4 +39,8 @@ A comprehensive risk assessment of a telecom customer survey dataset to evaluate
 This project leverages statistical and machine learning techniques to analyze healthcare data, specifically targeting stroke risk prediction and life expectancy estimation. By employing a range of predictive models, including regression techniques, decision trees, and ensemble methods, the analysis compares their effectiveness. This analysis also identifies key health predictors as they pertain to life expectancy and stroke risk.
 #### [Stroke Risk and Life Expectancy Repository](https://github.com/SEugley/Machine_Learning/tree/main/Stroke_and_Life_Expectancy)
 
+#### Customer Segmentation and Profiling
+
+#### [Segmentation and Profiling Repository](https://github.com/SEugley/Segmentation_and_Profiling)
+
 ### What am I Currently Working on?
