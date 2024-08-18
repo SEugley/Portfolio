@@ -32,10 +32,8 @@
 ### Projects
 
 #### Customer De-Identification
-##### Summary
-The Customer De-identification project involved assessing and mitigating the risks associated with re-identifying individuals in a telecom customer survey dataset. The project utilized statistical methods and probabilistic algorithms to evaluate the risk of customer identification under various scenarios, including deliberate attacks, inadvertent recognition, data breaches, and public data exposure. A key part of the analysis involved creating equivalence classes by grouping customers who shared identical values for selected quasi-identifiers, such as age, gender, monthly credit card spending, and household income. These equivalence classes were crucial for measuring re-identification risk, with efforts focused on ensuring that each class was sufficiently large to reduce the risk of singling out individuals. By implementing data quality controls, masking sensitive variables, and grouping data into ranges, the project successfully reduced the re-identification risk while maintaining the dataset's utility for analysis. Final recommendations emphasized the importance of secure data handling and ongoing risk assessments to ensure privacy compliance​.
-
-### [Data De-identification Project Repository](https://github.com/SEugley/Data_De-identification)
+In this Customer De-identification project, the risks of identifying customers in a telecom customer survey dataset was evaluated and then mitigated. Four different scenarios of re-identification are presented: Intentional attack, unintentional recognition, data breaches, and public data disclosure. To assess the risk of client identification, the project used established statistical methodologies and probabilistic algorithms. Creating equivalence classes with similar values for quasi-identifiers (e.g., age, gender, monthly credit card usage, household income), was a crucial component in protecting customer identity. Efforts were made to ensure that each class was big enough to lower the possibility of singling out any specific individual. Utilizing data quality controls, masking sensitive variables, and grouping data into ranges, the project was able to successfully reduce the re-identification risk while also maintaining the utility of the dataset. 
+#### [Data De-identification Project Repository](https://github.com/SEugley/Data_De-identification)
 
 
 ### What am I Currently Working on?
