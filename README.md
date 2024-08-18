@@ -40,7 +40,7 @@ This project leverages machine learning techniques to analyze healthcare data, s
 #### [Stroke Risk and Life Expectancy Repository](https://github.com/SEugley/Machine_Learning/tree/main/Stroke_and_Life_Expectancy)
 
 #### Customer Segmentation and Profiling
-Customer segmentation and profiling analysis for a telecom company to enhance customer retention. Two approaches were explored: a decision tree model and a value-based segmentation method. The value-based approach categorized customers into eight distinct profiles based on tenure, monthly spending, and premium service usage. Key findings revealed patterns in customer behavior across different age groups and spending habits, across the 8 customer profiles. 
+Customer segmentation and profiling analysis for a telecom company to enhance customer retention. Two approaches were explored: a decision tree model and a value-based segmentation method. The value-based approach categorized customers into eight distinct profiles based on tenure, monthly spending, and premium service usage. Key findings revealed patterns in customer behavior across different age groups and spending habits across profiles. 
 #### [Segmentation and Profiling Repository](https://github.com/SEugley/Segmentation_and_Profiling)
 
 ### What am I Currently Working on?
