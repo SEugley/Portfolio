@@ -32,15 +32,15 @@
 ### Projects
 
 #### Customer De-Identification
-A comprehensive risk assessment of a telecom customer survey dataset to evaluate the potential for customer re-identification was performed. Statistical methods and probabilistic algorithms were applied across four scenarios: intentional attack, unintentional recognition, data breaches, and public disclosure. Equivalence classes for quasi-identifiers, ensuring adequate group sizes to reduce re-identification risks, were established. Data quality controls, variable masking, and data grouping strategies were implemented to successfully mitigate risks while preserving the dataset’s utility. 
+Risk assessment of a telecom customer survey dataset to evaluate the potential for customer re-identification was performed. Statistical methods and probabilistic algorithms were applied across four scenarios: intentional attack, unintentional recognition, data breaches, and public disclosure. Equivalence classes for quasi-identifiers, ensuring adequate group sizes to reduce re-identification risks, were established. Data quality controls, variable masking, and data grouping strategies were implemented to successfully mitigate risks while preserving the dataset’s utility. 
 #### [Data De-identification Repository](https://github.com/SEugley/Data_De-identification)
 
 #### Predictive Modeling for Stroke Risk and Life Expectancy
-This project leverages statistical and machine learning techniques to analyze healthcare data, specifically targeting stroke risk prediction and life expectancy estimation. By employing a range of predictive models, including regression techniques, decision trees, and ensemble methods, the analysis compares their effectiveness. This analysis also identifies key health predictors as they pertain to life expectancy and stroke risk.
+This project leverages machine learning techniques to analyze healthcare data, specifically targeting stroke risk prediction and life expectancy estimation. By employing a range of predictive models, including regression techniques, decision trees, and ensemble methods, the analysis compares their effectiveness. This analysis also identifies key health predictors as they pertain to life expectancy and stroke risk.
 #### [Stroke Risk and Life Expectancy Repository](https://github.com/SEugley/Machine_Learning/tree/main/Stroke_and_Life_Expectancy)
 
 #### Customer Segmentation and Profiling
-
+Customer segmentation and profiling analysis for a telecom company to enhance customer retention. Two approaches were explored: a decision tree model and a value-based segmentation method. The value-based approach categorized customers into eight distinct profiles based on tenure, monthly spending, and premium service usage. Key findings revealed patterns in customer behavior across different age groups and spending habits, across the 8 customer profiles. 
 #### [Segmentation and Profiling Repository](https://github.com/SEugley/Segmentation_and_Profiling)
 
 ### What am I Currently Working on?
