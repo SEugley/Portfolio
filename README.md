@@ -32,7 +32,7 @@
 ### Projects
 
 #### Data De-Identification
-Risk assessment of a telecom customer survey dataset to evaluate the potential for customer re-identification was performed. Statistical methods and probabilistic algorithms were applied across four scenarios: intentional attack, unintentional recognition, data breaches, and public disclosure. Equivalence classes for quasi-identifiers, ensuring adequate group sizes to reduce re-identification risks, were established. Data quality controls, variable masking, and data grouping strategies were implemented to successfully mitigate risks while preserving the dataset’s utility. 
+Risk assessment of a telecom survey dataset to evaluate the potential for customer re-identification was performed. Statistical methods and probabilistic algorithms were applied across four scenarios: intentional attack, unintentional recognition, data breaches, and public disclosure. Equivalence classes for quasi-identifiers, ensuring adequate group sizes to reduce re-identification risks, were established. Data quality controls, variable masking, and data grouping strategies were implemented to successfully mitigate risks while preserving the dataset’s utility. 
 #### [Data De-identification Repository](https://github.com/SEugley/Data_De-identification)
 
 #### Predictive Modeling for Stroke Risk and Life Expectancy
@@ -44,3 +44,7 @@ Customer segmentation and profiling analysis for a telecom company to enhance cu
 #### [Segmentation and Profiling Repository](https://github.com/SEugley/Segmentation_and_Profiling)
 
 ### What am I Currently Working on?
+
+## What I'm Currently Working On
+This analysis utilizes 2019-2022 hospital readmission data from the Hospital Readmission Reduction Program (HRRP) to identify key risk factors influencing readmission rates for hip and knee replacement patients. Using a Random Forest model, we aim to pinpoint the most significant predictors of readmission. Additionally, we are implementing Support Vector Machine (SVM) and Deep Neural Network (DNN) models to predict hospital readmission rates and classify hospitals as either 'preferred' or 'non-preferred' for hip/knee replacement surgery patients, leveraging the latest 2024 HRRP data.
+This is a collaborative project. You can find more details in my partner's repository: [Analysis of 2019-2022 Hospital Readmission Reduction Program Data](https://github.com/adelinecasali4/hospital-readmission)
